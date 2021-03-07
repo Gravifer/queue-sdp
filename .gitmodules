@@ -1,0 +1,3 @@
+[submodule "QueueSDP"]
+	path = QueueSDP
+	url = https://github.com/QueSDP/QueueSDP.git
